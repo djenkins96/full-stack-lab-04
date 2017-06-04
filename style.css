@@ -1,0 +1,17 @@
+
+/*button{
+    position: fixed;
+}*/
+
+.square {
+    height: 3em;
+    width: 3em;
+    background-color: black;
+    color: white;
+    margin: 0.2em;
+    float: left;    
+    font-size: 5em;
+    text-align: center;
+    line-height: 3em;
+    vertical-align: middle;
+}
